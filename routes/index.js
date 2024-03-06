@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const apiKeyMiddleware = require('../middlewares/apiKey');
+const apiKeyMiddleware = require('../middlewares/apikey');
 
 // router.use(apiKeyMiddleware);
 

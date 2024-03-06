@@ -8,3 +8,5 @@ function apiKey(req, res, next) {
     }
 
 }
+
+module.exports = apiKey;
